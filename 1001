@@ -1,0 +1,10 @@
+<?php
+
+$x = (int)readline('');
+$y = (int)readline('');
+
+$z=$x + $y;
+
+echo "X = $z\n";
+
+?>
