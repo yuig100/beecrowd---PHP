@@ -1,0 +1,12 @@
+<?php
+
+$r = (double)readline('');
+$n = 3.14159;
+
+$area=($r * $r) * $n;
+
+$area = number_format($area, 4, '.', '');
+
+echo "A=$area\n";
+
+?>
