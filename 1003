@@ -1,0 +1,11 @@
+<?php
+
+$x= (int)readline('');
+
+$y= (int)readline('');
+
+$soma = $x + $y;
+
+echo "SOMA = $soma\n";
+
+?>
